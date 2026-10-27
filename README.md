@@ -8,7 +8,7 @@
 - Doctor Review Portal
 - PDF Reports
 - Telemedicine Support
-- 
+  
 ## AI Datasets 
 - APTOS 2019 
 - EyePACS IDRiD 
