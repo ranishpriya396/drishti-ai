@@ -18,6 +18,7 @@
 - Next.js
 - TypeScript
 - TailwindCSS
+  
 Backend: 
 -  FastAPI
 - PostgreSQL
